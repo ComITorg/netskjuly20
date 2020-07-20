@@ -1,0 +1,6 @@
+# Visual Studio Code Settings
+.vscode/
+
+# Build Artifacts
+bin/
+obj/
